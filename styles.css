@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+#wrapper{
+  width: 970px;
+  height: 1200px;
+  margin: 0px auto;
+  background-color: yellow;
+}
+#images img{
+  display: block;
+}
